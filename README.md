@@ -11,3 +11,4 @@ This repository functions as a list of setups, configs, and other general remind
 * minimap
 * rest-client
 * vim-mode
+* xml-formatter
