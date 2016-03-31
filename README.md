@@ -12,3 +12,4 @@ This repository functions as a list of setups, configs, and other general remind
 * rest-client (Ctrl/Cmd+Shift+P Rest)
 * vim-mode
 * xml-formatter (Ctrl/Cmd+Shift+X) or (Ctrl/Cmd+Shift+P xml)
+* an-old-hope-syntax
