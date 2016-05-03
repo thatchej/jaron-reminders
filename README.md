@@ -12,5 +12,6 @@ This repository functions as a list of setups, configs, and other general remind
 * rest-client (Ctrl/Cmd+Shift+P Rest)
 * vim-mode
 * xml-formatter (Ctrl/Cmd+Shift+X) or (Ctrl/Cmd+Shift+P xml)
+* atom-xsltransform (Ctrl/Cmd+Shift+P xsl)
 * atom-material-ui (Primary R79 G180 B216 Accent R120 G189 B101)
 * an-old-hope-syntax
